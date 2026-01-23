@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.danielas.com.mx" resolutions="1x,2x" timestamp="1769135991569">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4265299255" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="´s-daniela-favicon.ico" crc="239857617" ref="index"/>
+    <file name="fotitos_daniela.png" crc="4172747429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dan_birthday.svg" crc="477675388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dan_birthday_poster_.png" crc="381925776" ref="index"/>
+    <file name="cumpleaños danielaboton-04-u433.png" crc="157147704" ref="index"/>
+    <file name="cumpleaños danielaboton-04-u433_2x.png" crc="239370077" ref="index"/>
+    <file name="cumpleaños danielaboton-05-u433-r.png" crc="3850131668" ref="index"/>
+    <file name="cumpleaños danielaboton-05-u433-r_2x.png" crc="475158764" ref="index"/>
+    <file name="cumpleaños danielaboton-04-u433-a.png" crc="157147704" ref="index"/>
+    <file name="cumpleaños danielaboton-04-u433-a_2x.png" crc="239370077" ref="index"/>
+    <file name="mensaje_ganado.png" crc="3948546808" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="63450763" seo="true" mt="1769135945479" redirect="true"/>
+</manifest>
